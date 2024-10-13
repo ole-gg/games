@@ -1,0 +1,14 @@
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\bin\Debug\net8.0\dz1.1.exe
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\bin\Debug\net8.0\dz1.1.deps.json
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\bin\Debug\net8.0\dz1.1.runtimeconfig.json
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\bin\Debug\net8.0\dz1.1.dll
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\bin\Debug\net8.0\dz1.1.pdb
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\dz1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\dz1.1.AssemblyInfoInputs.cache
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\dz1.1.AssemblyInfo.cs
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\dz1.1.csproj.CoreCompileInputs.cache
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\dz1.1.dll
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\refint\dz1.1.dll
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\dz1.1.pdb
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\dz1.1.genruntimeconfig.cache
+D:\Oleg\Учеба\5 сем\юнити\dz1.1\obj\Debug\net8.0\ref\dz1.1.dll
